@@ -1,0 +1,9 @@
+name: hfradar_adcp_altimetry
+channels:
+  - conda-forge
+  - jupyter
+  - jupyterlab
+  - xarray
+  - numpy
+  - netcdf4
+  - matplotlib
