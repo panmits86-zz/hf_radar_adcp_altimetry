@@ -1,6 +1,7 @@
 name: hfradar_adcp_altimetry
 channels:
   - conda-forge
+dependencies:
   - jupyter
   - jupyterlab
   - xarray
